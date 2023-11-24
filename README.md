@@ -1,2 +1,3 @@
-# website
-# This is a test for the moment
+# Website
+# This is the repository for my github pages website
+# It is for my portfolio
